@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "682965903516",
+    "project_id": "break-n-squash",
+    "storage_bucket": "break-n-squash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682965903516:android:12dbbe60ad71e6f192e559",
+        "android_client_info": {
+          "package_name": "com.brickbreaker.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682965903516-omokeebrm8rh1hih7l6p797jtm7nf96k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5Uvph3_wv8A8UrLEqOb4d12WoE-6vQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682965903516-omokeebrm8rh1hih7l6p797jtm7nf96k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "682965903516-s7opl82mg50v552o8394cgt8lts8ou5r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brickbreaker.firebase.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

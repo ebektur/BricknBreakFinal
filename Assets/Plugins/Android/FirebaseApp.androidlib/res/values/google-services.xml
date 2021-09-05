@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">682965903516</string>
+  <string name="google_storage_bucket" translatable="false">break-n-squash.appspot.com</string>
+  <string name="project_id" translatable="false">break-n-squash</string>
+  <string name="google_api_key" translatable="false">AIzaSyBz5Uvph3_wv8A8UrLEqOb4d12WoE-6vQs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBz5Uvph3_wv8A8UrLEqOb4d12WoE-6vQs</string>
+  <string name="google_app_id" translatable="false">1:682965903516:android:12dbbe60ad71e6f192e559</string>
+  <string name="default_web_client_id" translatable="false">682965903516-omokeebrm8rh1hih7l6p797jtm7nf96k.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>682965903516-s7opl82mg50v552o8394cgt8lts8ou5r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.682965903516-s7opl82mg50v552o8394cgt8lts8ou5r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxVKhN7DDhj_a-NhAkLXaUmDCwSB_8M9E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>682965903516</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brickbreaker.firebase.ios</string>
+	<key>PROJECT_ID</key>
+	<string>break-n-squash</string>
+	<key>STORAGE_BUCKET</key>
+	<string>break-n-squash.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:682965903516:ios:56af76f31a368b6092e559</string>
+</dict>
+</plist>
